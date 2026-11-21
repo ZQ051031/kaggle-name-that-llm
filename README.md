@@ -104,4 +104,4 @@ the 18 models include close siblings, e.g. several gpt-5.6 variants and gemini-3
 
 ## License
 
-Code: MIT-style use permitted. Competition data is CC BY-SA 4.0 and is not included here.
+Code: MIT (see `LICENSE`; the competition rules require an OSI license for publicly shared code). Competition data is CC BY-SA 4.0 and is not included here.
